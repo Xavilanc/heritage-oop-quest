@@ -28,4 +28,7 @@ public abstract class Vehicule {
         this.kilometers = kilometers;
     }
 
+    //methods
+    public abstract String doStuff();
+
 }
